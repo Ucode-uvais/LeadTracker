@@ -9,3 +9,12 @@ The Leads Tracker Chrome extension allows users to save URLs from the active tab
 Save URLs: Click the extension button to capture the current tab’s URL.
 Display Saved URLs: View your saved URLs in a clean, user-friendly list.
 Clear Saved URLs: Double-click the “Delete” button to wipe your saved leads.
+
+# Setup:
+1- Download & install the project file as zip and then extract the folder 
+2-Go to chrome web browser and type "chrome://extensions/".
+3-Enable Developer mode
+4-you will see an option called "Load unpacked".click on that
+5-Select the extension directory.i.e the folder that you extracted
+6.Done
+
