@@ -2,8 +2,15 @@
     "manifest_version": 3,
     "version": "1.0",
     "name": "Leads tracker",
+    "description":"allows users to Save URLs from the active tab.Display the saved URLs in an unordered list.Clear saved URLs when needed.",
+    "icons": {
+    "128": "icon.png"
+},
     "action": {
         "default_popup": "index.html",
         "default_icon": "icon.png"
-    }
+    },
+    "permissions": [
+        "tabs"
+    ]
 }
